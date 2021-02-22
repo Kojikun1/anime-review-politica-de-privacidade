@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/anime-review-politica-de-privacidade/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/anime-review-politica-de-privacidade/static/js/main.4f086d20.chunk.js",
+    "main.js.map": "/anime-review-politica-de-privacidade/static/js/main.4f086d20.chunk.js.map",
+    "runtime-main.js": "/anime-review-politica-de-privacidade/static/js/runtime-main.c2b6d873.js",
+    "runtime-main.js.map": "/anime-review-politica-de-privacidade/static/js/runtime-main.c2b6d873.js.map",
+    "static/js/2.9577fb5d.chunk.js": "/anime-review-politica-de-privacidade/static/js/2.9577fb5d.chunk.js",
+    "static/js/2.9577fb5d.chunk.js.map": "/anime-review-politica-de-privacidade/static/js/2.9577fb5d.chunk.js.map",
+    "static/js/3.1f4b6c64.chunk.js": "/anime-review-politica-de-privacidade/static/js/3.1f4b6c64.chunk.js",
+    "static/js/3.1f4b6c64.chunk.js.map": "/anime-review-politica-de-privacidade/static/js/3.1f4b6c64.chunk.js.map",
+    "index.html": "/anime-review-politica-de-privacidade/index.html",
+    "static/css/main.ea1455b2.chunk.css.map": "/anime-review-politica-de-privacidade/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.9577fb5d.chunk.js.LICENSE.txt": "/anime-review-politica-de-privacidade/static/js/2.9577fb5d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/anime-review-politica-de-privacidade/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2b6d873.js",
+    "static/js/2.9577fb5d.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.4f086d20.chunk.js"
+  ]
+}
